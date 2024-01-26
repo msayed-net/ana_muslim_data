@@ -1,74 +1,151 @@
 [
     {
         "key": "zekr",
+        "system": "false",
         "display": "true",
         "version": "1.0.0",
         "url": "https://raw.githubusercontent.com/msayed-net/ana_muslim_data/main/data/counters/zekr.json"
     },
     {
         "key": "doaa",
+        "system": "false",
         "display": "true",
         "version": "1.0.0",
         "url": "https://raw.githubusercontent.com/msayed-net/ana_muslim_data/main/data/counters/doaa.json"
     },
     {
         "key": "sebha",
+        "system": "false",
         "display": "true",
         "version": "1.0.0",
         "url": "https://raw.githubusercontent.com/msayed-net/ana_muslim_data/main/data/counters/sebha.json"
     },
     {
         "key": "names",
+        "system": "false",
         "display": "true",
         "version": "1.0.0",
         "url": "https://raw.githubusercontent.com/msayed-net/ana_muslim_data/main/data/names/names.json"
     },
     {
         "key": "names_mp3",
+        "system": "false",
         "display": "true",
         "version": "1.0.0",
         "url": "https://raw.githubusercontent.com/msayed-net/ana_muslim_data/main/data/names/names_mp3.json"
     },
     {
         "key": "radio",
+        "system": "false",
         "display": "true",
         "version": "1.0.0",
         "url": "https://raw.githubusercontent.com/msayed-net/ana_muslim_data/main/data/stations/radio.json"
     },
     {
         "key": "tv",
+        "system": "false",
         "display": "true",
         "version": "1.0.0",
         "url": "https://raw.githubusercontent.com/msayed-net/ana_muslim_data/main/data/stations/tv.json"
     },
     {
         "key": "privacy",
+        "system": "false",
         "display": "true",
         "version": "1.0.0",
         "url": "https://raw.githubusercontent.com/msayed-net/ana_muslim_data/main/pages/privacy.html"
     },
     {
         "key": "terms",
+        "system": "false",
         "display": "true",
         "version": "1.0.0",
         "url": "https://raw.githubusercontent.com/msayed-net/ana_muslim_data/main/pages/terms.html"
     },
     {
         "key": "support_email",
+        "system": "false",
         "display": "true",
         "version": "1.0.0",
         "url": "support@anamuslim.org"
     },
     {
         "key": "google_play",
+        "system": "false",
         "display": "true",
         "version": "1.0.0",
         "url": "https://play.google.com/store/apps/details?id=org.anamuslim.app"
     },
     {
         "key": "app_store",
+        "system": "false",
         "display": "false",
         "version": "1.0.0",
         "url": "https://apps.apple.com/us/app/ana-muslim/id1581365299"
+    },
+    {
+        "key": "fcm_key",
+        "system": "true",
+        "display": "false",
+        "version": "1.0.0",
+        "url": ""
+    },
+    {
+        "key": "radio_player_id",
+        "system": "true",
+        "display": "false",
+        "version": "1.0.0",
+        "url": ""
+    },
+    {
+        "key": "counter_asset_path",
+        "system": "true",
+        "display": "false",
+        "version": "1.0.0",
+        "url": ""
+    },
+    {
+        "key": "home_card_image",
+        "system": "true",
+        "display": "false",
+        "version": "1.0.0",
+        "url": ""
+    },
+    {
+        "key": "theme_mode",
+        "system": "true",
+        "display": "false",
+        "version": "1.0.0",
+        "url": ""
+    },
+    {
+        "key": "fcm_topics_subscribed",
+        "system": "true",
+        "display": "false",
+        "version": "1.0.0",
+        "url": "",
+        "content": "main"
+    },
+    {
+        "key": "is_first_run",
+        "system": "true",
+        "display": "false",
+        "version": "1.0.0",
+        "url": "",
+        "content": "true"
+    },
+    {
+        "key": "location_country_code",
+        "system": "true",
+        "display": "false",
+        "version": "1.0.0",
+        "url": ""
+    },
+    {
+        "key": "location_city",
+        "system": "true",
+        "display": "false",
+        "version": "1.0.0",
+        "url": ""
     }
 ]

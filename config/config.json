@@ -95,7 +95,8 @@
         "system": "true",
         "display": "false",
         "version": "1.0.0",
-        "url": ""
+        "url": "",
+        "content": "10000"
     },
     {
         "key": "counter_asset_path",
@@ -116,7 +117,8 @@
         "system": "true",
         "display": "false",
         "version": "1.0.0",
-        "url": ""
+        "url": "",
+        "content": "system"
     },
     {
         "key": "fcm_topics_subscribed",

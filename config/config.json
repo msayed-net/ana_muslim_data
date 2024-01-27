@@ -103,7 +103,8 @@
         "system": "true",
         "display": "false",
         "version": "1.0.0",
-        "url": ""
+        "url": "",
+        "content": "assets/img/counter/c_1.png"
     },
     {
         "key": "home_card_image",
